@@ -4,7 +4,7 @@ Several variations of this will exist over time. Possible variations I'm working
 
 ### Wholemeal no-knead
 
-#### Ingredient Listing
+#### Ingredients
 
 Ingredient | Measurement, Weight | Notes
 ---|---|----
