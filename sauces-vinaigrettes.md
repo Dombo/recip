@@ -1,8 +1,5 @@
 # Sauces and Vinaigrettes (various recipes)
 
-## Quick Sauces
-
-
 ## Generic Method
 
 For all of these quick sauces you may follow the same method.
@@ -12,6 +9,53 @@ In a suitable sized container with a fluid tight lid, combine the ingredients an
 Taste to confirm deliciousness and make any adjustments you deem neceessary.
 
 If you're doing a bigger batch reach for the blender/food processor. Most of these will keep in the fridge for some time. Throw them in a sauce bottle for easy portioning.
+
+### Honey Mustard
+
+Goes nicely over roast vegetables, a salad that could use a sweet note, can dip things in it, if you leave it on the thicker side you can smear it on a sandwich. 
+
+#### Ingredient Listing (2 Serves)
+
+Ingredient | Measurement, Weight | Notes
+---|---|----
+Nut butter | 1 tbsp | sub tahini, peanut/almond butter but cashew butter yields the most neutral flavour with a slight sweet inflection that plays nicely
+Mustard | 1/2 tsbp | spicey kind, dijon works, tbh any mustard works
+Sweetener | 1 tbsp | maple, honey, agave, anything works
+Salt & pepper | to taste | 
+Nut milk/dairy/water to thin | 1 tbsp | almond milk is generally the 'sweetest' milk and plays well here but anything works, even water 
+
+### Sweet Tahini
+
+#### Ingredient Listing (4 Serves)
+
+Ingredient | Measurement, Weight | Notes
+---|---|----
+Tahini | 1/3 cup | No sub for u
+Lemon juice | ~3 tbsp | Sub lime, maybe...
+Sweetener | 1-2 tbsp | Sub honey, agave
+
+### Lemon Vinaigrette
+
+#### Ingredient Listing (4 Serves)
+
+Ingredient | Measurement, Weight | Notes
+---|---|----
+Lemon | 3-4 tbsp |
+Olive oil | 1/4 cup | Decent olive oil plz, it's the primary ingredient
+Sweetener | 1 tsp | Maple, agave, honey. Honey is my go to because I'm a scrooge.
+Salt | to taste | 
+Pepper (optional) | to taste | 
+
+### Balsamic Vinaigrette
+
+#### Ingredient Listing (4 Serves)
+
+Ingredient | Measurement, Weight | Notes
+---|---|----
+Balsamic vinegar | 3-4 tbsp | 
+Olive oil | 1/4 cup | Decent olive oil
+Sweetener | 1/2 tsp | Maple, agave, honey
+Salt & pepper | a "pinch" whatever that is | 
 
 ### Satay Sauce
 
